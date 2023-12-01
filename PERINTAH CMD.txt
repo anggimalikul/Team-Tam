@@ -1,0 +1,3 @@
+Perintah CMD
+
+"Cd" untuk masuk dan keluar Folder
